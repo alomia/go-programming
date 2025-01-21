@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-
 	firstName := "Bob"
 	familyName := "Smith"
 	age := 34
